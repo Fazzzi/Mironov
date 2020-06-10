@@ -1,0 +1,47 @@
+﻿.style1 {
+background: #666699;
+float: left;
+width: 500px;
+border: ridge 3.5px grey;
+padding: 8px;
+position: relative;
+border-radius: 0px;
+left: 250px;
+top: 15px;
+}
+ 
+.style2 {
+width: 330px;
+float: left;
+background: #00CC33;
+border: ridge 3.5px grey;
+position: relative;
+padding: 8px;
+left: -475px;
+top: 80px;
+border-radius: 0px;
+}
+
+.style4 {
+width: 560px;
+float: left;
+background: #FF3333;
+border: ridge 3.5px grey;
+position: relative;
+padding: 8px;
+left: 650px;
+top: -680px;
+border-radius: 10px;
+}
+
+.style5 {
+width: 565px;
+float: left;
+background: #FF9933;
+border: ridge 3.5px grey;
+position: relative;
+padding: 8px;
+left: 70px;
+top: -580px;
+border-radius: 10px;
+}
